@@ -1,0 +1,1203 @@
+{
+ "cover_title": "Rapport du diagnostic opérationnel rapide de la préparation des établissements de santé pour les services de santé maternelle, néonatale et infantile, paludisme et nutrition",
+ "cover_place": "Kinshasa, Octobre 2026",
+ "preface": {
+  "title": "Préface",
+  "eyebrow": "PRÉFACE",
+  "paras": [
+   "La République Démocratique du Congo (RDC) évolue dans un contexte sanitaire marqué par des besoins importants, des vulnérabilités structurelles persistantes et la survenue récurrente d’épidémies et d’autres urgences de santé publique. Dans ce contexte, la capacité des établissements de soins de santé à assurer de manière continue, sûre et efficace les services essentiels constitue un déterminant majeur de la performance et de la résilience du système de santé.",
+   "C’est dans cette perspective qu’a été réalisé le présent Diagnostic opérationnel rapide des établissements de soins de santé, avec un accent particulier sur les services de santé maternelle, néonatale et infantile, de lutte contre le paludisme et de nutrition. L’exercice a permis d’apprécier leur niveau réel de préparation opérationnelle, au-delà de la seule disponibilité des infrastructures et des équipements.",
+   "Le diagnostic a notamment examiné la capacité des établissements à réunir les conditions essentielles à la prestation effective des soins : ressources humaines compétentes, médicaments et intrants essentiels, équipements fonctionnels, eau, hygiène et assainissement, systèmes d’information, organisation des services et mécanismes de référence et contre-référence. Il a ainsi permis d’identifier ce qui fonctionnait, les principaux goulots d’étranglement et leurs causes, ainsi que les actions prioritaires nécessaires pour les lever.",
+   "Les résultats présentés dans ce rapport constituent une contribution importante à la compréhension des contraintes opérationnelles affectant la prestation des services et fournissent des éléments utiles pour orienter la planification et la priorisation des interventions. Ils devraient contribuer à renforcer durablement la capacité des établissements de soins de santé à offrir des services essentiels de manière sûre, fiable et continue, et à mieux faire face aux urgences sanitaires.",
+   "Je tiens à exprimer ma profonde gratitude aux autorités sanitaires, aux responsables des établissements de soins de santé, aux professionnels de santé, aux équipes techniques ainsi qu’à l’ensemble des partenaires qui ont contribué à la réalisation de ce diagnostic.",
+   "J’adresse une reconnaissance particulière au Dr Ngashi Ngongo, au Dr Gullit Lufiauluisu et à l’ensemble de l’équipe d’ICHESS pour avoir conduit ce travail avec rigueur, professionnalisme et engagement. Ce diagnostic réalisé par le cabinet ICHESS présente une analyse structurée des principaux constats et formule des recommandations visant à orienter les actions d’amélioration et de renforcement des systèmes et des services de santé.",
+   "J’encourage toutes les parties prenantes à s’approprier les résultats et recommandations de ce rapport et à les traduire en actions concrètes, priorisées et mesurables, afin d’améliorer durablement la disponibilité, la qualité et la continuité des services de santé maternelle, néonatale et infantile, de lutte contre le paludisme et de nutrition au bénéfice des populations."
+  ],
+  "signature": [
+   "Narcisse Naia Embeke, MD, MPH",
+   "Directeur Technique, Projet EpiC RDC"
+  ]
+ },
+ "remerciements": {
+  "title": "Remerciements",
+  "eyebrow": "REMERCIEMENTS",
+  "paras": [
+   "La réalisation de cette évaluation a reposé sur la mobilisation de nombreuses institutions, équipes et personnes ayant contribué à sa conception, sa mise en œuvre, à l’analyse des données et à la production du présent rapport. ICHESS leur exprime sa profonde gratitude pour leur confiance, leur disponibilité et leur engagement.",
+   "Nos premiers remerciements s’adressent à FHI 360, pour la confiance accordée à ICHESS et son accompagnement technique et institutionnel. Une reconnaissance particulière est adressée à Joyce Kakesa, Narcisse Embeke, Teddy Matadi, Elie Alimasi, Peter Diakumpuna et Milan Milambu pour leurs orientations et contributions aux différentes étapes de l’évaluation.",
+   "Nous remercions les Divisions Provinciales de la Santé (DPS) et les Équipes Cadres des Zones de Santé (ECZ) pour leur collaboration et la facilitation des activités de terrain. Notre gratitude va également aux responsables et personnels des établissements de soins de santé (ESS) ainsi qu’aux enquêteurs et enquêtrices, dont la disponibilité et la rigueur ont contribué à la qualité des données recueillies.",
+   "Une reconnaissance particulière est adressée aux superviseurs provinciaux : Gullit Lufiauluisu (Lualaba), Prince Lumbu (Haut-Katanga), Cédric Kabala (Haut-Lomami), Lucien Banze (Tanganyika), Mireille Meta (Kasaï-Oriental), Toto Ezombe (Lomami), Olivier Kingulu (Kasaï-Central) et Clovis Ludiala (Sankuru), pour la coordination des équipes et l’assurance qualité des opérations.",
+   "ICHESS remercie particulièrement Ngashi Ngongo, Investigateur Principal, pour la direction scientifique et méthodologique de l’étude, et Gullit Lufiauluisu, Co-investigateur et Coordonnateur terrain, pour la coordination opérationnelle. Nos remerciements vont également à Glody Kanga, Statisticien, pour le traitement et l’analyse des données, et à Prince Nsamba, Informaticien, pour la gestion des outils numériques et des données.",
+   "Enfin, nous remercions Jean Lubuanga et Emmanuel Nsamba, ainsi que l’équipe administrative et financière d’ICHESS, pour leur appui logistique et administratif. La complémentarité de toutes ces expertises a permis de produire des analyses robustes et utiles à la décision pour améliorer la préparation opérationnelle des ESS."
+  ],
+  "signature": [
+   "Ngashi Ngongo, PhD, MD, MPH",
+   "Directeur Exécutif, ICHESS"
+  ]
+ },
+ "toc": [
+  [
+   0,
+   "",
+   "Préface",
+   "2"
+  ],
+  [
+   0,
+   "",
+   "Remerciements",
+   "3"
+  ],
+  [
+   0,
+   "",
+   "Liste des figures et tableaux",
+   "6"
+  ],
+  [
+   0,
+   "",
+   "Résumé exécutif",
+   "11"
+  ],
+  [
+   1,
+   "I.",
+   "Introduction",
+   "14"
+  ],
+  [
+   2,
+   "1.1.",
+   "Contexte et justification",
+   "14"
+  ],
+  [
+   2,
+   "1.2.",
+   "Objectifs et résultats attendus",
+   "15"
+  ],
+  [
+   2,
+   "1.3.",
+   "Bénéficiaires et utilisations des résultats",
+   "16"
+  ],
+  [
+   1,
+   "II.",
+   "Approche méthodologique",
+   "17"
+  ],
+  [
+   2,
+   "2.1.",
+   "Conception générale de l'étude",
+   "17"
+  ],
+  [
+   2,
+   "2.2.",
+   "Population, échantillonnage et unités d'analyse",
+   "17"
+  ],
+  [
+   2,
+   "2.3.",
+   "Instruments de collecte",
+   "18"
+  ],
+  [
+   2,
+   "2.4.",
+   "Organisation de la collecte",
+   "18"
+  ],
+  [
+   2,
+   "2.5.",
+   "Assurance qualité des données",
+   "19"
+  ],
+  [
+   2,
+   "2.6.",
+   "Cadre analytique : fonctions traceuses et classification tricolore",
+   "19"
+  ],
+  [
+   2,
+   "2.7.",
+   "Analyse qualitative",
+   "24"
+  ],
+  [
+   2,
+   "2.8.",
+   "Chaîne de traitement des données et reproductibilité",
+   "24"
+  ],
+  [
+   2,
+   "2.9.",
+   "Considérations éthiques",
+   "25"
+  ],
+  [
+   2,
+   "2.10.",
+   "Limites méthodologiques",
+   "25"
+  ],
+  [
+   1,
+   "III.",
+   "Résultats",
+   "26"
+  ],
+  [
+   2,
+   "3.1.",
+   "Description de l’échantillon et couverture",
+   "26"
+  ],
+  [
+   2,
+   "3.2.",
+   "Niveau de préparation fonctionnelle des établissements",
+   "27"
+  ],
+  [
+   2,
+   "3.3.",
+   "Préparation aux urgences",
+   "37"
+  ],
+  [
+   2,
+   "3.4.",
+   "Intégration opérationnelle des services",
+   "42"
+  ],
+  [
+   2,
+   "3.5.",
+   "Utilisation des données de routine et de surveillance",
+   "49"
+  ],
+  [
+   2,
+   "3.6.",
+   "Facteurs associés aux contraintes observées",
+   "50"
+  ],
+  [
+   2,
+   "3.7.",
+   "Priorités d'investissement",
+   "74"
+  ],
+  [
+   1,
+   "IV.",
+   "Discussion",
+   "83"
+  ],
+  [
+   2,
+   "4.1.",
+   "Ce que mesure le diagnostic et comment interpréter les résultats",
+   "83"
+  ],
+  [
+   2,
+   "4.2.",
+   "Des vulnérabilités déjà documentées et confirmées",
+   "83"
+  ],
+  [
+   2,
+   "4.3.",
+   "Les goulots dominants à la lumière de la littérature",
+   "85"
+  ],
+  [
+   2,
+   "4.4.",
+   "Le paradoxe du rétablissement matériel isolé",
+   "86"
+  ],
+  [
+   2,
+   "4.5.",
+   "De l’offre déclarée à la capacité réelle : les limites du suivi de routine",
+   "86"
+  ],
+  [
+   2,
+   "4.6.",
+   "Un gradient de capacité insuffisant : l’HGR ne garantit pas toujours la prise en charge des cas référés",
+   "87"
+  ],
+  [
+   2,
+   "4.7.",
+   "Vulnérabilités provinciales et contraction des appuis extérieurs",
+   "87"
+  ],
+  [
+   2,
+   "4.8.",
+   "Cohérence avec les orientations nationales vers la CSU",
+   "88"
+  ],
+  [
+   2,
+   "4.9.",
+   "Forces et limites de l'analyse",
+   "88"
+  ],
+  [
+   2,
+   "4.10.",
+   "Implications pour l'action et pour la recherche",
+   "88"
+  ],
+  [
+   1,
+   "V.",
+   "Conclusion et recommandations",
+   "89"
+  ],
+  [
+   2,
+   "5.1.",
+   "Conclusion",
+   "89"
+  ],
+  [
+   2,
+   "5.2.",
+   "Recommandations",
+   "89"
+  ],
+  [
+   0,
+   "",
+   "Bibliographie",
+   "96"
+  ],
+  [
+   0,
+   "",
+   "Annexes",
+   "100"
+  ],
+  [
+   2,
+   "",
+   "Annexe 1 : Haut-Katanga",
+   "100"
+  ],
+  [
+   2,
+   "",
+   "Annexe 2 : Haut-Lomami",
+   "105"
+  ],
+  [
+   2,
+   "",
+   "Annexe 3 : Kasaï-Central",
+   "109"
+  ],
+  [
+   2,
+   "",
+   "Annexe 4 : Kasaï-Oriental",
+   "114"
+  ],
+  [
+   2,
+   "",
+   "Annexe 5 : Lomami",
+   "119"
+  ],
+  [
+   2,
+   "",
+   "Annexe 6 : Lualaba",
+   "124"
+  ],
+  [
+   2,
+   "",
+   "Annexe 7 : Sankuru",
+   "129"
+  ],
+  [
+   2,
+   "",
+   "Annexe 8 : Tanganyika",
+   "133"
+  ],
+  [
+   2,
+   "",
+   "Annexe 9 : Éléments en cause dans les fonctions d’urgence rouges, par niveau",
+   "138"
+  ],
+  [
+   2,
+   "",
+   "Annexe 10 : Compléments sur le cumul des blocages, les fragilités et les simulations",
+   "146"
+  ],
+  [
+   2,
+   "",
+   "Annexe 11 : Analyse de sensibilité : observations rattachées à plusieurs dimensions",
+   "150"
+  ]
+ ],
+ "figures": [
+  [
+   "Établissements évalués par province et par niveau de soins",
+   "27"
+  ],
+  [
+   "Classification des 28 fonctions traceuses, ensemble des établissements",
+   "29"
+  ],
+  [
+   "Préparation opérationnelle des 17 fonctions communes aux trois niveaux de soins",
+   "34"
+  ],
+  [
+   "Part de fonctions rouges par fonction et par province",
+   "35"
+  ],
+  [
+   "Préparation opérationnelle par domaine technique et par niveau de soins",
+   "36"
+  ],
+  [
+   "État opérationnel des fonctions vitales dont le service est déclaré offert, par niveau de soins",
+   "37"
+  ],
+  [
+   "Préparation aux urgences : ensemble, par niveau de soins et par province",
+   "38"
+  ],
+  [
+   "Couples de prestations documentés, par niveau de soins",
+   "43"
+  ],
+  [
+   "Jours de présence des prestataires déclarés sur trois mois, par service et par niveau",
+   "44"
+  ],
+  [
+   "État de la fonction d’aval lorsque la fonction d’amont est classée verte ou jaune",
+   "48"
+  ],
+  [
+   "Chaîne surveillance-réponse et chaîne des données : composantes et points de rupture",
+   "49"
+  ],
+  [
+   "Dimensions bloquantes des fonctions rouges et fragilités des fonctions jaunes",
+   "51"
+  ],
+  [
+   "Nombre de dimensions bloquantes par fonction rouge, selon le niveau de soins",
+   "52"
+  ],
+  [
+   "Les douze configurations de blocage les plus fréquentes parmi les fonctions rouges",
+   "53"
+  ],
+  [
+   "Fonctions jaunes à une seule fragilité du vert",
+   "54"
+  ],
+  [
+   "Fonctions rouges libérées par le rétablissement d’un seul élément critique",
+   "58"
+  ],
+  [
+   "Part de fonctions vitales rouges dans les CS selon la présence déclarée d’une catégorie de personnel",
+   "61"
+  ],
+  [
+   "Composantes de la référence, de l’eau et de l’hygiène, de l’électricité et de la communication",
+   "63"
+  ],
+  [
+   "Profil des dimensions bloquantes par province",
+   "68"
+  ],
+  [
+   "Paquets cumulatifs de leviers : fonctions rouges libérées à mesure que les dimensions sont résolues",
+   "77"
+  ],
+  [
+   "Gain simulé de chaque levier, par province (part des fonctions rouges libérées)",
+   "81"
+  ]
+ ],
+ "tables": [
+  [
+   "Périmètre du diagnostic",
+   "15"
+  ],
+  [
+   "Base de sondage et échantillon réalisé, par niveau géographique",
+   "17"
+  ],
+  [
+   "Les 28 fonctions traceuses (71 spécifications selon le niveau)",
+   "20"
+  ],
+  [
+   "Les huit règles de décision de l'algorithme de classification Vert / Jaune / Rouge",
+   "22"
+  ],
+  [
+   "Rôle des douze dimensions dans les 71 spécifications",
+   "23"
+  ],
+  [
+   "Modalités d’application des règles de classification",
+   "24"
+  ],
+  [
+   "Classification des 28 fonctions traceuses, par ordre de criticité",
+   "29"
+  ],
+  [
+   "Élément critique le plus souvent en déficit, par fonction",
+   "31"
+  ],
+  [
+   "Blocages dominants des fonctions d’urgence, par niveau de soins",
+   "39"
+  ],
+  [
+   "Principaux éléments critiques d’urgence manquants ou en rupture",
+   "40"
+  ],
+  [
+   "Menaces immédiates et contraintes déclarées d'accès à la référence",
+   "41"
+  ],
+  [
+   "Correspondance documentaire avec les fonctions signal SONU (référentiel classique)",
+   "42"
+  ],
+  [
+   "Références au cours des trois derniers mois, par motif",
+   "45"
+  ],
+  [
+   "Contraintes déclarées au départ lorsque la référence est décidée (centres de santé)",
+   "46"
+  ],
+  [
+   "Difficultés déclarées à la réception des patients référés (CSR et HGR)",
+   "47"
+  ],
+  [
+   "État des fonctions vitales d'aval à la destination de référence enquêtée",
+   "47"
+  ],
+  [
+   "Points de rupture du circuit de surveillance, par niveau et par province",
+   "50"
+  ],
+  [
+   "Les dimensions de blocage : ce qu'elles bloquent, ce qu'elles fragilisent et ce que leur résolution libère",
+   "52"
+  ],
+  [
+   "Disponibilité des intrants critiques, tous niveaux",
+   "56"
+  ],
+  [
+   "Disponibilité des équipements critiques, tous niveaux",
+   "57"
+  ],
+  [
+   "Effectifs déclarés par catégorie et par niveau (roster du personnel)",
+   "59"
+  ],
+  [
+   "Formations déclarées au cours des deux dernières années, par thème et par niveau",
+   "60"
+  ],
+  [
+   "Conditions transversales au niveau des établissements",
+   "62"
+  ],
+  [
+   "Composantes du mécanisme de référence en cause dans les fonctions rouges de la référence urgente, par niveau",
+   "64"
+  ],
+  [
+   "Perturbations déclarées au cours des trois derniers mois, par province (% d’établissements)",
+   "65"
+  ],
+  [
+   "Conjoncturel ou structurel : perturbation déclarée et blocage observé",
+   "66"
+  ],
+  [
+   "Causes déclarées des interruptions et blocages observés de la fonction correspondante",
+   "67"
+  ],
+  [
+   "Constance intra-zone de la dimension bloquante dominante",
+   "69"
+  ],
+  [
+   "Synthèse des goulots opérationnels, de leurs conséquences et des risques sanitaires associés",
+   ""
+  ],
+  [
+   "Matrice consolidée d'analyse et de correction des goulots d'étranglement, par contrainte transversale",
+   "71"
+  ],
+  [
+   "Intrants et équipements prioritaires les plus souvent manquants pour les fonctions vitales (tous niveaux)",
+   "75"
+  ],
+  [
+   "Gains simulés des paires de leviers et complémentarité",
+   "78"
+  ],
+  [
+   "Lecture programmatique des priorités d’investissement",
+   "79"
+  ],
+  [
+   "Profil provincial des blocages et des leviers (ordre alphabétique)",
+   "80"
+  ],
+  [
+   "Les quinze zones de santé où un seul levier débloque le plus de fonctions rouges, et la meilleure combinaison de deux leviers",
+   "82"
+  ],
+  [
+   "Rapprochement de quelques indicateurs avec les enquêtes antérieures",
+   "84"
+  ],
+  [
+   "Plan d'action priorisé : responsables, indicateurs, valeurs de départ et cibles indicatives",
+   "94"
+  ]
+ ],
+ "annex_tables": [
+  [
+   "A1",
+   "Classification des 28 fonctions traceuses, Haut-Katanga",
+   "101"
+  ],
+  [
+   "A2",
+   "Dimensions bloquantes des fonctions rouges, par fonction (n), Haut-Katanga",
+   "102"
+  ],
+  [
+   "A3",
+   "Dimensions bloquantes et fragilités, Haut-Katanga",
+   "103"
+  ],
+  [
+   "A4",
+   "Conditions transversales et profil d'urgence, Haut-Katanga",
+   "103"
+  ],
+  [
+   "A5",
+   "Leviers simples et paire optimale, Haut-Katanga",
+   "103"
+  ],
+  [
+   "A6",
+   "Lecture par zone de santé, Haut-Katanga",
+   "104"
+  ],
+  [
+   "A7",
+   "Établissements où un seul levier libère le plus de fonctions rouges, Haut-Katanga",
+   "105"
+  ],
+  [
+   "A8",
+   "Classification des 28 fonctions traceuses, Haut-Lomami",
+   "106"
+  ],
+  [
+   "A9",
+   "Dimensions bloquantes des fonctions rouges, par fonction (n), Haut-Lomami",
+   "107"
+  ],
+  [
+   "A10",
+   "Dimensions bloquantes et fragilités, Haut-Lomami",
+   "108"
+  ],
+  [
+   "A11",
+   "Conditions transversales et profil d'urgence, Haut-Lomami",
+   "108"
+  ],
+  [
+   "A12",
+   "Leviers simples et paire optimale, Haut-Lomami",
+   "108"
+  ],
+  [
+   "A13",
+   "Lecture par zone de santé, Haut-Lomami",
+   "109"
+  ],
+  [
+   "A14",
+   "Établissements où un seul levier libère le plus de fonctions rouges, Haut-Lomami",
+   "109"
+  ],
+  [
+   "A15",
+   "Classification des 28 fonctions traceuses, Kasaï-Central",
+   "111"
+  ],
+  [
+   "A16",
+   "Dimensions bloquantes des fonctions rouges, par fonction (n), Kasaï-Central",
+   "112"
+  ],
+  [
+   "A17",
+   "Dimensions bloquantes et fragilités, Kasaï-Central",
+   "113"
+  ],
+  [
+   "A18",
+   "Conditions transversales et profil d'urgence, Kasaï-Central",
+   "113"
+  ],
+  [
+   "A19",
+   "Leviers simples et paire optimale, Kasaï-Central",
+   "113"
+  ],
+  [
+   "A20",
+   "Lecture par zone de santé, Kasaï-Central",
+   "114"
+  ],
+  [
+   "A21",
+   "Établissements où un seul levier libère le plus de fonctions rouges, Kasaï-Central",
+   "114"
+  ],
+  [
+   "A22",
+   "Classification des 28 fonctions traceuses, Kasaï-Oriental",
+   "116"
+  ],
+  [
+   "A23",
+   "Dimensions bloquantes des fonctions rouges, par fonction (n), Kasaï-Oriental",
+   "117"
+  ],
+  [
+   "A24",
+   "Dimensions bloquantes et fragilités, Kasaï-Oriental",
+   "118"
+  ],
+  [
+   "A25",
+   "Conditions transversales et profil d'urgence, Kasaï-Oriental",
+   "118"
+  ],
+  [
+   "A26",
+   "Leviers simples et paire optimale, Kasaï-Oriental",
+   "118"
+  ],
+  [
+   "A27",
+   "Lecture par zone de santé, Kasaï-Oriental",
+   "119"
+  ],
+  [
+   "A28",
+   "Établissements où un seul levier libère le plus de fonctions rouges, Kasaï-Oriental",
+   "119"
+  ],
+  [
+   "A29",
+   "Classification des 28 fonctions traceuses, Lomami",
+   "120"
+  ],
+  [
+   "A30",
+   "Dimensions bloquantes des fonctions rouges, par fonction (n), Lomami",
+   "121"
+  ],
+  [
+   "A31",
+   "Dimensions bloquantes et fragilités, Lomami",
+   "122"
+  ],
+  [
+   "A32",
+   "Conditions transversales et profil d'urgence, Lomami",
+   "122"
+  ],
+  [
+   "A33",
+   "Leviers simples et paire optimale, Lomami",
+   "122"
+  ],
+  [
+   "A34",
+   "Lecture par zone de santé, Lomami",
+   "123"
+  ],
+  [
+   "A35",
+   "Établissements où un seul levier libère le plus de fonctions rouges, Lomami",
+   "123"
+  ],
+  [
+   "A36",
+   "Classification des 28 fonctions traceuses, Lualaba",
+   "125"
+  ],
+  [
+   "A37",
+   "Dimensions bloquantes des fonctions rouges, par fonction (n), Lualaba",
+   "126"
+  ],
+  [
+   "A38",
+   "Dimensions bloquantes et fragilités, Lualaba",
+   "127"
+  ],
+  [
+   "A39",
+   "Conditions transversales et profil d'urgence, Lualaba",
+   "127"
+  ],
+  [
+   "A40",
+   "Leviers simples et paire optimale, Lualaba",
+   "127"
+  ],
+  [
+   "A41",
+   "Lecture par zone de santé, Lualaba",
+   "128"
+  ],
+  [
+   "A42",
+   "Établissements où un seul levier libère le plus de fonctions rouges, Lualaba",
+   "128"
+  ],
+  [
+   "A43",
+   "Classification des 28 fonctions traceuses, Sankuru",
+   "130"
+  ],
+  [
+   "A44",
+   "Dimensions bloquantes des fonctions rouges, par fonction (n), Sankuru",
+   "131"
+  ],
+  [
+   "A45",
+   "Dimensions bloquantes et fragilités, Sankuru",
+   "132"
+  ],
+  [
+   "A46",
+   "Conditions transversales et profil d'urgence, Sankuru",
+   "132"
+  ],
+  [
+   "A47",
+   "Leviers simples et paire optimale, Sankuru",
+   "132"
+  ],
+  [
+   "A48",
+   "Lecture par zone de santé, Sankuru",
+   "133"
+  ],
+  [
+   "A49",
+   "Établissements où un seul levier libère le plus de fonctions rouges, Sankuru",
+   "133"
+  ],
+  [
+   "A50",
+   "Classification des 28 fonctions traceuses, Tanganyika",
+   "135"
+  ],
+  [
+   "A51",
+   "Dimensions bloquantes des fonctions rouges, par fonction (n), Tanganyika",
+   "136"
+  ],
+  [
+   "A52",
+   "Dimensions bloquantes et fragilités, Tanganyika",
+   "137"
+  ],
+  [
+   "A53",
+   "Conditions transversales et profil d'urgence, Tanganyika",
+   "137"
+  ],
+  [
+   "A54",
+   "Leviers simples et paire optimale, Tanganyika",
+   "137"
+  ],
+  [
+   "A55",
+   "Lecture par zone de santé, Tanganyika",
+   "138"
+  ],
+  [
+   "A56",
+   "Établissements où un seul levier libère le plus de fonctions rouges, Tanganyika",
+   "138"
+  ],
+  [
+   "A57",
+   "Éléments et composantes en cause dans les fonctions d’urgence rouges, par fonction et par niveau",
+   "138"
+  ],
+  [
+   "A58",
+   "Nombre de dimensions bloquantes par fonction rouge, par niveau",
+   "146"
+  ],
+  [
+   "A59",
+   "Fonctions jaunes à fragilité unique, par fonction",
+   "147"
+  ],
+  [
+   "A60",
+   "Rétablissement conjoint de tous les éléments critiques en déficit, par niveau",
+   "148"
+  ],
+  [
+   "A61",
+   "Fonctions rouges libérées par le rétablissement d’un seul élément critique, par niveau",
+   "148"
+  ],
+  [
+   "A62",
+   "Fonctions rouges libérées à chaque étape du paquet cumulatif",
+   "149"
+  ],
+  [
+   "A63",
+   "Observations lues dans plusieurs dimensions de la grille",
+   "150"
+  ],
+  [
+   "A64",
+   "Effet du rattachement unique sur les principaux indicateurs",
+   "151"
+  ]
+ ],
+ "abbrev": [
+  [
+   "AL",
+   "Artéméther-Luméfantrine"
+  ],
+  [
+   "AMIU",
+   "Aspiration Manuelle Intra-Utérine"
+  ],
+  [
+   "ARV",
+   "Antirétroviraux"
+  ],
+  [
+   "AS-AQ",
+   "Artésunate-Amodiaquine"
+  ],
+  [
+   "ASC",
+   "Agent de Santé Communautaire"
+  ],
+  [
+   "ATPE",
+   "Aliment Thérapeutique Prêt à l'Emploi"
+  ],
+  [
+   "CAC",
+   "Cellule d'Animation communautaire"
+  ],
+  [
+   "CAPI",
+   "Computer-Assisted Personal Interviewing (entretien assisté par tablette)"
+  ],
+  [
+   "CARAMAL",
+   "Community Access to Rectal Artesunate for Malaria"
+  ],
+  [
+   "CHISU",
+   "Country Health Information Systems and Data Use"
+  ],
+  [
+   "CODESA",
+   "Comité de développement de l'aire de santé"
+  ],
+  [
+   "CPN",
+   "Consultation prénatale"
+  ],
+  [
+   "CPNr",
+   "Consultation prénatale recentrée / de routine"
+  ],
+  [
+   "CPoN",
+   "Consultation postnatale"
+  ],
+  [
+   "CS",
+   "Centre de santé"
+  ],
+  [
+   "CSR",
+   "Centre de santé de référence"
+  ],
+  [
+   "CSU",
+   "Couverture sanitaire universelle"
+  ],
+  [
+   "DHIS2",
+   "District Health Information Software, version 2"
+  ],
+  [
+   "DOS",
+   "Department of State (Département d’État des États-Unis)"
+  ],
+  [
+   "DPS",
+   "Division provinciale de la santé"
+  ],
+  [
+   "DQR/DQE",
+   "Data Quality Review / Data Quality Evaluation (Revue / Évaluation de la qualité des données)."
+  ],
+  [
+   "ECZ",
+   "Équipe cadre de la zone de santé"
+  ],
+  [
+   "EDS",
+   "Enquête démographique et de santé"
+  ],
+  [
+   "EpiC",
+   "Meeting Targets and Maintaining Epidemic Control (projet EpiC)"
+  ],
+  [
+   "EPSS",
+   "Évaluation des prestations des services de soins de santé"
+  ],
+  [
+   "ESP / ESPK",
+   "École de santé publique de Kinshasa"
+  ],
+  [
+   "ESS",
+   "Établissement de soins de santé"
+  ],
+  [
+   "F75 / F100",
+   "Laits thérapeutiques de la prise en charge de la malnutrition aiguë sévère"
+  ],
+  [
+   "FHI 360",
+   "Family Health International 360"
+  ],
+  [
+   "FSS",
+   "Fonds de solidarité de santé"
+  ],
+  [
+   "HGR",
+   "Hôpital général de référence"
+  ],
+  [
+   "HHFA",
+   "Harmonized Health Facility Assessment (évaluation harmonisée des établissements de soins de santé)"
+  ],
+  [
+   "HPP",
+   "Hémorragie du post-partum"
+  ],
+  [
+   "ICHESS",
+   "International Center for Health Systems Strengthening"
+  ],
+  [
+   "IHP",
+   "Integrated Health Program (programme de santé intégré de l'USAID)"
+  ],
+  [
+   "INS",
+   "Institut national de la statistique"
+  ],
+  [
+   "IT / ITA",
+   "Infirmier titulaire / infirmier titulaire adjoint"
+  ],
+  [
+   "MA",
+   "Malnutrition aiguë"
+  ],
+  [
+   "MAPI",
+   "Manifestations adverses post-immunisation"
+  ],
+  [
+   "MSPHPS",
+   "Ministère de la Santé publique, Hygiène et Prévoyance sociale"
+  ],
+  [
+   "MUAC",
+   "Mid-Upper Arm Circumference (périmètre brachial)"
+  ],
+  [
+   "OMS",
+   "Organisation mondiale de la santé"
+  ],
+  [
+   "PCIMA",
+   "Prise en charge intégrée de la malnutrition aiguë"
+  ],
+  [
+   "PCIMNE",
+   "Prise en charge intégrée des maladies du nouveau-né et de l'enfant"
+  ],
+  [
+   "PEV",
+   "Programme élargi de vaccination"
+  ],
+  [
+   "PIB",
+   "Produit intérieur brut"
+  ],
+  [
+   "PMI",
+   "President's Malaria Initiative (Initiative présidentielle américaine contre le paludisme)"
+  ],
+  [
+   "PNDS-PS",
+   "Plan national de développement sanitaire et de prévoyance sociale"
+  ],
+  [
+   "PNLP",
+   "Programme national de lutte contre le paludisme"
+  ],
+  [
+   "PNLS",
+   "Programme national de lutte contre le VIH/sida et les IST"
+  ],
+  [
+   "PNSR",
+   "Programme national de santé de la reproduction"
+  ],
+  [
+   "PRONANUT",
+   "Programme national de nutrition"
+  ],
+  [
+   "PSN SACO",
+   "Plan stratégique national de santé communautaire"
+  ],
+  [
+   "PTF",
+   "Partenaires techniques et financiers"
+  ],
+  [
+   "PTME",
+   "Prévention de la transmission mère-enfant (du VIH)"
+  ],
+  [
+   "RDC",
+   "République démocratique du Congo"
+  ],
+  [
+   "RECO",
+   "Relais communautaire"
+  ],
+  [
+   "RH",
+   "Ressources humaines"
+  ],
+  [
+   "SARA",
+   "Service Availability and Readiness Assessment"
+  ],
+  [
+   "SMNEA",
+   "Santé de la mère, du nouveau-né, de l'enfant et de l'adolescent"
+  ],
+  [
+   "SMS",
+   "Short Message Service (message texte)"
+  ],
+  [
+   "SNIS",
+   "Système national d'information sanitaire"
+  ],
+  [
+   "SONU",
+   "Soins obstétricaux et néonatals d'urgence"
+  ],
+  [
+   "SPA",
+   "Service Provision Assessment"
+  ],
+  [
+   "UNICEF",
+   "Fonds des Nations unies pour l'enfance"
+  ],
+  [
+   "USAID",
+   "Agence des États-Unis pour le développement international"
+  ],
+  [
+   "VIH",
+   "Virus de l'immunodéficience humaine"
+  ],
+  [
+   "WASH",
+   "Water, Sanitation and Hygiene (eau, hygiène et assainissement)"
+  ],
+  [
+   "WASH-FIT",
+   "Water and Sanitation for Health Facility Improvement Tool"
+  ],
+  [
+   "ZS",
+   "Zone de santé"
+  ]
+ ]
+}
